@@ -1,2 +1,3 @@
 Ctrl + d  ==> duplicate a code line or selected code
 Ctrl + space  ==>  to get all the properties of a build in function
+Ctrl + Alt + l ==> to align the code
